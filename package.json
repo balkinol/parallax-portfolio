@@ -1,0 +1,16 @@
+{
+  "name": "parallax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d parallax"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://balkinol.github.io/parallax-portfolio",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
